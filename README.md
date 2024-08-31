@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viorten or simply Vadym!
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript, node.js, git, express.js
+- 🌱 I’m currently learning JavaScript, Node.js, Git, Express.js, TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Telegram - @viorten
 - 😄 Pronouns: He/Him
